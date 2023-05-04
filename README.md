@@ -1,19 +1,19 @@
 # Sergio Rossini
 
-## Introduction
+## :dart: Introduction
 
 Hey there! I am Sergio Rossini, a proud Brazilian with 16 years of success stories as a technology professional. My
-graduation in Computer Science was taken at UFJF and I have courses and boot camps related to DevOps, Cloud, Leadership
+graduation in Computer Science was taken at [UFJF](https://en.wikipedia.org/wiki/Federal_University_of_Juiz_de_Fora) and I have courses and boot camps related to DevOps, Cloud, Leadership
 and English. This knowledge allowed me to build my career acting as Developer, Scrum Master and Software Architect
 within Brazilian and international projects.
 
-I am originally from Juiz de Fora, but I live in Belo Horizonte, MG, Brazil. <br>
+I am originally from [Juiz de Fora](https://en.wikipedia.org/wiki/Juiz_de_Fora), but I live in [Belo Horizonte](https://en.wikipedia.org/wiki/Belo_Horizonte), MG, Brazil. <br>
 
-* LinkedIn Profile: [https://www.linkedin.com/in/sergiorossini/](https://www.linkedin.com/in/sergiorossini/)
+My LinkedIn profile can be found at [https://www.linkedin.com/in/sergiorossini/](https://www.linkedin.com/in/sergiorossini/).
 
-## Experiences
+## :briefcase: Experiences
 
-### [CI&T](https://www.ciandt.com) over the years 2010 to 2023
+### :fleur_de_lis:	[CI&T](https://www.ciandt.com) over the years 2010 to 2023
 
 #### Java Developer, from middle to senior
 
@@ -70,7 +70,7 @@ database artefacts like **Stored Procedure** and **functions** triggered by **cr
 * I worked as **full stack** in an web application with **Struts 2**, **Hibernate 3**, **Jasper API** to create reports.
 * Also, I was responsible to define the best practices for recurring problems and meeting with client.
 
-### c[DM Consultoria](http://dmconsultoria.com.br), 2007 and 2008
+### :fleur_de_lis: [DM Consultoria](http://dmconsultoria.com.br), 2007 and 2008
 
 #### Intern with Java Development
 
@@ -86,7 +86,29 @@ Consultoria and Provider-It Business Solutions, both from Rio de Janeiro.
 
 ## :books: Licenses and Certifications
 
-* WIP
+* Bootcamp Profissional DevOps
+  * IGTI, Issued Oct 2021
 
+* Essential Google Cloud Infrastructure: Foundation
+  * Coursera, Issued May 2019
 
-[richmanzoli](https://github.com/richmanzoli/curriculo). Confere o dele lá também! :wink:
+* Google Cloud Platform Fundamentals: Core Infrastructure
+  * Coursera, Issued May 2019
+* There are others several courses during my studying and working time like Management 3.0, Leadership, English Language
+  and several on line trainings that supported me to accomplish my challenges. 
+
+## :globe_with_meridians: Languages
+
+* Portuguese, native speaker
+* English, advanced level (B2)
+
+## :kite: Hobbies
+
+The main activities that I like most when I am not working are:
+* [reading](https://www.goodreads.com/user/show/32054032-sergio-rossini)
+* [writing](https://sergiorossini.com)
+* hikking and enjoy nature sights
+* [music](https://www.last.fm/user/sergiorossini)
+* social meetings with friends like picnics, cooking and sun bathing.
+* I also like traveling to learn more about local culture. I feel like I need more than one life to visit all places
+  that I've been saving on Google Maps.
