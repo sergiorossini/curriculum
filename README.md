@@ -1,6 +1,6 @@
 # Sergio Rossini
 
-![](/Users/sergiorossini/Dev/curriculum/images/profile.png)
+![](https://github.com/sergiorossini/curriculum/blob/main/images/profile.png?raw=true)
 
 ## :dart: Introduction
 
