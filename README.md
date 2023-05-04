@@ -5,9 +5,12 @@
 ## :dart: Introduction
 
 Hey there! I am Sergio Rossini, a proud Brazilian with 16 years of success stories as a technology professional. My
-graduation in Computer Science was taken at [UFJF](https://en.wikipedia.org/wiki/Federal_University_of_Juiz_de_Fora) and I have courses and boot camps related to DevOps, Cloud, Leadership
+graduation in Computer Science was taken at [UFJF](https://en.wikipedia.org/wiki/Federal_University_of_Juiz_de_Fora) and
+I have courses and boot camps related to DevOps, Cloud, Leadership
 and English. This knowledge allowed me to build my career acting as Developer, Scrum Master and Software Architect
-within Brazilian and international projects.
+within Brazilian and international projects. 
+
+But what I like most as a professional is coding in Java and seeing the results of my work supporting business's growth.
 
 I am originally from [Juiz de Fora](https://en.wikipedia.org/wiki/Juiz_de_Fora), but I live in [Belo Horizonte](https://en.wikipedia.org/wiki/Belo_Horizonte), MG, Brazil. <br>
 
@@ -112,5 +115,5 @@ The main activities that I like most when I am not working are:
 * hikking and enjoy nature sights
 * [music](https://www.last.fm/user/sergiorossini)
 * social meetings with friends like picnics, cooking and sun bathing.
-* I also like traveling to learn more about local culture. I feel like I need more than one life to visit all places
+* I also like travelling to learn more about local culture. I feel like I need more than one life to visit all places
   that I've been saving on Google Maps.
