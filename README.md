@@ -1,5 +1,7 @@
 # Sergio Rossini
 
+<img height="130" src="/Users/sergiorossini/Dev/curriculum/images/profile.png" width="140"/>
+
 ## :dart: Introduction
 
 Hey there! I am Sergio Rossini, a proud Brazilian with 16 years of success stories as a technology professional. My
