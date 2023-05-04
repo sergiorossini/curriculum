@@ -10,7 +10,7 @@ I have courses and boot camps related to DevOps, Cloud, Leadership
 and English. This knowledge allowed me to build my career acting as Developer, Scrum Master and Software Architect
 within Brazilian and international projects. 
 
-But what I like most as a professional is coding in Java and seeing the results of my work supporting business's growth.
+But what I like most as a professional is coding in Java and see the results of my work supporting the business's growth.
 
 I am originally from [Juiz de Fora](https://en.wikipedia.org/wiki/Juiz_de_Fora), but I live in [Belo Horizonte](https://en.wikipedia.org/wiki/Belo_Horizonte), MG, Brazil. <br>
 
@@ -33,7 +33,7 @@ services built with **IBM
 WID**. Deeper in my history, I worked as a full stack with **Spring**, **Struts**, **JSP**, **Java Script**, **Grails**
 and **PostgreSQL**.
 
-* During short periods, I also had an opportunity to work with Azure, when I learned more about **Kubernetes**, **Helm
+* During short periods, I also had an opportunity to work with Azure, where I learned more about **Kubernetes**, **Helm
 Charts**,
 **Terraform scripts** and **pipeline creation**.
 
@@ -54,8 +54,8 @@ and Nigeria. Our challenges were accomplished with success.
 
 #### Scrum Master
 
-* After being successful with my performance as a Developer, CI&T gave the challenge to work as a Scrum Master. I had
-opportunity to lead great teams boosting the business of Brazilian and USA customers. I developed a strong experience
+* After being successful with my performance as a Developer, CI&T gave me the challenge to work as a Scrum Master. I had
+the opportunity to lead great teams boosting the business of Brazilian and USA customers. I developed a strong experience
 leading teams in an international context.
 
 ### :fleur_de_lis:	[Squadra Tecnologia](https://www.squadra.com.br), from 2008 to 2010
@@ -63,7 +63,7 @@ leading teams in an international context.
 #### Java Developer
 
 * Components development for enterprise applications in VAS business (telecom). Maintenance and implementation of **Oracle**
-database artefacts like **Stored Procedure** and **functions** triggered by **cronjobs**.
+database artefacts like **Stored Procedures** and **functions** triggered by **cronjobs**.
 * Development and specification of message new components.
 * I worked with **Java**, **Hibernate**, **Websphere Server**, **Shell Scripts**, **monitoring** and **logging**.
 
@@ -72,22 +72,22 @@ database artefacts like **Stored Procedure** and **functions** triggered by **cr
 #### Java Developer
 
 * Activities during the 4-month project to build a tool for BDMG.
-* I worked as **full stack** in an web application with **Struts 2**, **Hibernate 3**, **Jasper API** to create reports.
-* Also, I was responsible to define the best practices for recurring problems and meeting with client.
+* I worked as a **full stack** in a web application with **Struts 2**, **Hibernate 3**, and **Jasper API** to create reports.
+* Also, I was responsible to define the best practices for recurring problems and meeting with the client.
 
 ### :fleur_de_lis: [DM Consultoria](http://dmconsultoria.com.br), 2007 and 2008
 
 #### Intern with Java Development
 
-* Developer with activities related to implementation and maintenance of modules inside web application of partners, DM
+* I work as a Developer with activities related to the implementation and maintenance of modules inside the web application of partners, DM
 Consultoria and Provider-It Business Solutions, both from Rio de Janeiro.
 * Maintenance of databases **SQL Server 2000** and **Oracle 10g** by **DDL and DML scripts**, functions and stored procedures.
-* Most of all activities performed by **Eclipse**, using **Design Patterns**, **Java EE 5** with frameworks **Struts**, **Spring** e
+* Most of all activities were performed with **Eclipse**, using **Design Patterns**, **Java EE 5** with frameworks **Struts**, **Spring** and
 **Hibernate**. Reports elaboration with **iReport** e **Jasper**.
 
 ## :mortar_board: Education
 
-* Universidade Federal de Juiz de Fora, graduated from Computer Science, 2008.<br>
+* Universidade Federal de Juiz de Fora, graduated in Computer Science, 2008.<br>
 
 ## :books: Licenses and Certifications
 
@@ -99,8 +99,8 @@ Consultoria and Provider-It Business Solutions, both from Rio de Janeiro.
 
 * Google Cloud Platform Fundamentals: Core Infrastructure
   * Coursera, Issued May 2019
-* There are others several courses during my studying and working time like Management 3.0, Leadership, English Language
-  and several on line trainings that supported me to accomplish my challenges. 
+* There are several courses during my studying and working time like Management 3.0, Leadership, English Language
+  and several online trainings that supported me to accomplish my challenges. 
 
 ## :globe_with_meridians: Languages
 
@@ -112,8 +112,8 @@ Consultoria and Provider-It Business Solutions, both from Rio de Janeiro.
 The main activities that I like most when I am not working are:
 * [reading](https://www.goodreads.com/user/show/32054032-sergio-rossini)
 * [writing](https://sergiorossini.com)
-* hikking and enjoy nature sights
+* hiking and enjoying nature sights
 * [music](https://www.last.fm/user/sergiorossini)
-* social meetings with friends like picnics, cooking and sun bathing.
+* social meetings with friends like picnics, cooking and sunbathing.
 * I also like travelling to learn more about local culture. I feel like I need more than one life to visit all places
   that I've been saving on Google Maps.
