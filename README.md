@@ -1,6 +1,6 @@
 # Sergio Rossini
 
-<img height="130" src="/Users/sergiorossini/Dev/curriculum/images/profile.png" width="140"/>
+![](/Users/sergiorossini/Dev/curriculum/images/profile.png)
 
 ## :dart: Introduction
 
